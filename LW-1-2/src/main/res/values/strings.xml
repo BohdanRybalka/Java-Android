@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bicycle chooser</string>
+    <string-array name="bicycle_types">
+    <item>Mountain</item>
+    <item>Road</item>
+    <item>Gravel</item>
+    <item>Trail</item>
+    </string-array>
+    <string name="mountain_bicycle_type">Marin Rift Zone 1</string>
+    <string name="road_bicycle_type">Cannondale CAAD Optimo 4</string>
+    <string name="gravel_bicycle_type">Merida Silex 7000</string>
+    <string name="trail_bicycle_type">Cannondale Trail SL 1</string>
+
+</resources>
